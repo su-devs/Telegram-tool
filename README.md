@@ -1,9 +1,7 @@
 <p align="left">
   <a><img title="Fuck it Ship it"src="https://forthebadge.com/images/featured/featured-fuck-it-ship-it.svg" ></a>
  </p>
-<p align="centre">
-  <a><img title="pyversion"src="https://img.shields.io/badge/Python%20version-3+-f39f37"></a>
-</p>
+
 # Telegram-tool
 --a tool to automate the process of adding members to your telegram groups.---
 ```
@@ -18,6 +16,10 @@ $ ./install.sh
 $ python3 scrapper.py
 $ python3 adder.py
 ```
+<p align="centre">
+  <a><img title="pyversion"src="https://img.shields.io/badge/Python%20version-3+-f39f37"></a>
+</p>
+
 #APIs
 ```
 visit my.telegram.org/apps
