@@ -1,6 +1,5 @@
 # Telegram-tool
-THIS TOOL ALLOWS YOU TO ADD MEMBERS TO YOUR TELEGRAM CHANNELS
-
+--a tool to automate the process of adding members to your telegram groups.---
 ```
 Installation termux
 
