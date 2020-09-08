@@ -12,7 +12,7 @@ $ ./install.sh
 $ python3 scrapper.py
 $ python3 adder.py
 ```
-###Workflow###
+#Workflow
 ```
 ▀▛▘  ▜                       ▌  ▌
  ▌▞▀▖▐ ▞▀▖▞▀▌▙▀▖▝▀▖▛▚▀▖ ▝▀▖▞▀▌▞▀▌▞▀▖▙▀▖
@@ -86,4 +86,11 @@ Groups You can add members to
 [+] Closing
 [+] Created by g1ng3rb1t3
 [=] https://t.me/Iamk3lv1n
+```
+#APIs
+```
+visit my.telegram.org/apps
+login using your telegram number
+Do as instructed. 
+*Paste your api id and hash in the tool, config.py
 ```
