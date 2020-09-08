@@ -5,7 +5,7 @@ Installation termux
 
 $ apt update && apt upgrade
 $ pkg install git
-$ git clone https://www.github.com/g1ng3rb1t3/Telegram-tool
+$ git clone https://www.github.com/g1ng3rb1t3/Telegram-tool.git
 $ cd Telegram-tool
 $ chmod +x install.sh
 $ ./install.sh
