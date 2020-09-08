@@ -1,7 +1,9 @@
 <p align="left">
   <a><img title="Fuck it Ship it"src="https://forthebadge.com/images/featured/featured-fuck-it-ship-it.svg" ></a>
  </p>
-
+<p align="left">
+  <a><img title="confi"src="https://img.shields.io/badge/Hey%20you-leave%20a%20star-f39f37"></a>
+</p>
 # Telegram-tool
 --a tool to automate the process of adding members to your telegram groups.---
 ```
