@@ -4,11 +4,12 @@
 <p align="left">
   <a><img title="confi"src="https://img.shields.io/badge/Hey%20you-leave%20a%20star-f39f37"></a>
 </p>
-# ⚠️
-```
-Currently on construction
-```
+
+
+
+
 # Telegram-tool
+
 --a tool to automate the process of adding members to your telegram groups.---
 
 ```
@@ -26,7 +27,10 @@ $ python3 adder.py
 <p align="centre">
   <a><img title="pyversion"src="https://img.shields.io/badge/Python%20version-3+-f39f37"></a>
 </p>
-
+# Note
+```
+on construction
+```
 # APIs
 ```
 visit my.telegram.org/apps
