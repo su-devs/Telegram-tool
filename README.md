@@ -5,11 +5,11 @@
   <a><img title="confi"src="https://img.shields.io/badge/Hey%20you-leave%20a%20star-f39f37"></a>
 </p>
 
-##Telegram-tool
+# Telegram-tool
 --a tool to automate the process of adding members to your telegram groups.---
 
 ```
-Installation termux
+# Installation termux
 
 $ apt update && apt upgrade
 $ pkg install git
@@ -24,14 +24,14 @@ $ python3 adder.py
   <a><img title="pyversion"src="https://img.shields.io/badge/Python%20version-3+-f39f37"></a>
 </p>
 
-##APIs
+# APIs
 ```
 visit my.telegram.org/apps
 login using your telegram number
 Do as instructed. 
 *Paste your api id and hash in the tool, config.py
 ```
-##Tool preview
+# Tool preview
 ```
 ▀▛▘  ▜                       ▌  ▌
  ▌▞▀▖▐ ▞▀▖▞▀▌▙▀▖▝▀▖▛▚▀▖ ▝▀▖▞▀▌▞▀▌▞▀▖▙▀▖
