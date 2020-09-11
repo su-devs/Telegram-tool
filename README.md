@@ -27,10 +27,7 @@ $ python3 adder.py
 <p align="centre">
   <a><img title="pyversion"src="https://img.shields.io/badge/Python%20version-3+-f39f37"></a>
 </p>
-# Note
-```
-on construction
-```
+
 # APIs
 ```
 visit my.telegram.org/apps
