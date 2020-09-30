@@ -88,6 +88,6 @@ Groups You can add members to
 
 
 [+] Closing
-^C[+] Created by g1ng3rb1t3
+^C[+] Created by Ox41414141
 [=] https://t.me/Iamk3lv1n
 ```
