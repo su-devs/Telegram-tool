@@ -17,7 +17,7 @@
 
 $ apt update && apt upgrade
 $ pkg install git
-$ git clone https://www.github.com/Ox41414141/Telegram-tool.git/
+$ git clone https://www.github.com/the-linuxchoice/Telegram-tool.git/
 $ cd Telegram-tool
 $ chmod +x install.sh
 $ ./install.sh
