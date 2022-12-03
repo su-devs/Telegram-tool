@@ -17,7 +17,7 @@
 
 $ apt update && apt upgrade
 $ pkg install git
-$ git clone https://www.github.com/g1ng3rb1t3/Telegram-tool.git/
+$ git clone https://www.github.com/0xbr0/Telegram-tool.git/
 $ cd Telegram-tool
 $ chmod +x install.sh
 $ ./install.sh
@@ -41,7 +41,7 @@ Do as instructed.
  ▌▞▀▖▐ ▞▀▖▞▀▌▙▀▖▝▀▖▛▚▀▖ ▝▀▖▞▀▌▞▀▌▞▀▖▙▀▖
  ▌▛▀ ▐ ▛▀ ▚▄▌▌  ▞▀▌▌▐ ▌ ▞▀▌▌ ▌▌ ▌▛▀ ▌
  ▘▝▀▘ ▘▝▀▘▗▄▘▘  ▝▀▘▘▝ ▘ ▝▀▘▝▀▘▝▀▘▝▀▘▘
-                   by (g1ng3rb1t3)kevo
+                   by (0xbro)mbithi
 Groups You can add members to
 [00]-> Telegras-כיוונים בוטיק
 [01]-> Sunset 1K+ MEGA GAINS 🔥🔥‼
@@ -88,6 +88,5 @@ Groups You can add members to
 
 
 [+] Closing
-^C[+] Created by Ox41414141
-[=] https://t.me/Iamk3lv1n
+
 ```
